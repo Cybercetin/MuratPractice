@@ -8,6 +8,7 @@ public class TestSelenium {
         // share file function and delete files
         // Create announcement functionality
         // Created calender
+        // added change design function
 
 
     }
