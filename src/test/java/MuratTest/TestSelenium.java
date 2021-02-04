@@ -5,7 +5,8 @@ public class TestSelenium {
 
     // Login functionality
         // Contacts module functionality
-        // share file function and added compression function
+        // share file function and delete files
+
     }
 
 }
